@@ -1,0 +1,34 @@
+body {
+  
+    background-color: lightblue;
+    margin-right: 10%;
+    
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 10%;
+    font-size: 50px;
+    
+  }
+  h2 {
+    color: green;
+    margin-left: 10%;
+    font-size: large;
+  }
+  p {
+    color: lightcyan;
+    margin-left: 10%;
+    font-size: small;
+  }
+  ul{
+    color: pink;
+    margin-left: 20%;
+    font-size: small;
+  
+  }
+  strong{
+    font-style: italic;
+    font-style: bold;
+  
+  }
